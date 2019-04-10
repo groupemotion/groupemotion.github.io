@@ -1,0 +1,43 @@
+Call for Papers
+
+Workshop on emotions and emergent states in groups
+https://groupemotion.github.io/
+
+Abstract
+The study of affect in groups, although a major goal of affective computing, has received relatively less attention compared to modeling individual affect. This is primarily because studying affect in an interactive, multiparty setting is more complex, and often, not very well defined outside specific applications. As group members explicitly and implicitly interact to coordinate their actions and achieve objectives, so-called emergent states also evolve over time. These include pivotal group phenomena such as trust, conflict, and cohesion. This workshop will provide a unique occasion to gather researchers and practitioners working on approaches for sensing, analyzing, and modeling group emotion and emergent states from a multidisciplinary perspective, including psychological, ethnological, sociological, pedagogical, and computational viewpoints. 
+
+Possible topics include: 
+- Theoretical approaches to affective dynamics and resulting emergent states in groups
+- Research design for studying affect: from controlled lab settings to groups in the wild
+- Data collection, annotation, and sharing
+- Approaches for analyzing and modeling groups taking into account emergent states or emotions
+- Integration of artificial agents (robots, virtual characters) in the group life by leveraging its affective loop: interaction paradigms, strategies, modalities, adaptation
+- Collaborative affective interfaces (e.g., for inclusion, for education, for games and entertainment)
+
+Paper submissions:
+Submissions should be in the form of long papers (7 pages; 6 pages + 1 page for references) or poster papers (4 pages; 3 pages + 1 page for references). Submissions should follow the paper format for the ACII conference, details here: http://acii-conf.org/2019/submission/
+
+All submissions will be reviewed by at least 2 experts from our international program committee. Accepted papers will be indexed in IEEE Xplore. Exploration of a special issue from the workshop is underway. 
+
+Submissions should be made to the following easychair site: 
+
+Important dates:
+- Submission deadline: June 17, 2019 (midnight PST)
+- Decision deadline: June 30, 2019
+- Camera-ready deadline: July 12, 2019
+
+Keynote Speakers:
+- Hatice Gunes - University of Cambridge, U.K.
+- Nale Lehmann-Willenbrock - Universität Hamburg, Germany
+ 
+Organizers and affiliations, and Workshop contact person: 
+- Giovanna Varni - LTCI, IMT-Telecom ParisTech, France (giovanna.varni@telecom-paristech.fr)
+- Naveen Kumar - Disney Research, USA (naveen.kumar@disney.com)
+- Cristina Segalin - Disney Research, USA 
+- James Kennedy - Disney Research, USA 
+- Mohamed Chetouani - ISIR, Sorbonne Université, France 
+- Joseph A. Allen - University of Nebraska at Omaha, USA 
+- Maurizio Mancini - University College Cork, Ireland 
+- Gualtiero Volpe - Universita di Genova, Italy 
+- Tanaya Guha - University of Warwick, U.K. 
+- Samuel Mascarenhas - Technical University of Lisbon, Portugal
