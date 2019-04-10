@@ -29,8 +29,31 @@ Important dates:
 Keynote Speakers:
 - Hatice Gunes - University of Cambridge, U.K.
 - Nale Lehmann-Willenbrock - Universität Hamburg, Germany
+
+International Program Committee:
+- Xavier Alameda-Pineda - INRIA, France
+- Oya Aran - De La Salle University, Manila, Philippines
+- Alessandro D’Ausilio - Università di Ferrara, IIT Ferrara, Italy
+- Theodora Chaspari - Texas A&M University, USA
+- Chloé Clavel - Telecom-ParisTech, France
+- Ekin Gedik - Technical University of Delft, The Netherlands
+- Donald Glowinski - Université de Genève, Switzerland
+- Peter Keller - Western Sidney University, Australia
+- Agata Lapedriza - Universitat Oberta de Catalunya, Spain
+- Jeremy Lee - National Tsing Hua University, Taiwan
+- Ming Li - Duke University, USA
+- Gelareh Mohammadi - University of New South Wales, Australia
+- Catharine Oertel - EPFL, Switzerland
+- Ana Paiva - Technical University of Lisbon, Portugal
+- Christopher Peters - KTH, Sweden
+- Ronald Poppe - Utrecht University, The Netherlands
+- Victor Sanchez - University of Warwick, U.K.
+- Tanmay Sinha - ETH, Switzerland
+- Albert Ali Salah - Utrecht University, The Netherlands
+- Khiet Truong - University of Twente, The Netherlands
+- Zhaojun Yang - Facebook
  
-Organizers and affiliations, and Workshop contact person: 
+Organizing Committee: 
 - Giovanna Varni - LTCI, IMT-Telecom ParisTech, France (giovanna.varni@telecom-paristech.fr)
 - Naveen Kumar - Disney Research, USA (naveen.kumar@disney.com)
 - Cristina Segalin - Disney Research, USA 
