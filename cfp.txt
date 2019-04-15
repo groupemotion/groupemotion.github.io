@@ -8,9 +8,9 @@ The study of affect in groups, although a major goal of affective computing, has
 
 Possible topics include: 
 - Theoretical approaches to affective dynamics and resulting emergent states in groups
-- Research design for studying affect: from controlled lab settings to groups in the wild
+- Research design: from controlled lab settings to groups in the wild
 - Data collection, annotation, and sharing
-- Approaches for analyzing and modeling groups taking into account emergent states or emotions
+- Approaches for analyzing and modeling groups taking into account emergent states and/or emotions
 - Integration of artificial agents (robots, virtual characters) in the group life by leveraging its affective loop: interaction paradigms, strategies, modalities, adaptation
 - Collaborative affective interfaces (e.g., for inclusion, for education, for games and entertainment)
 
@@ -23,7 +23,7 @@ Submissions should be made to the following easychair site:
 
 Important dates:
 - Submission deadline: June 17, 2019 (midnight PST)
-- Decision deadline: June 30, 2019
+- Decision deadline: July 3, 2019
 - Camera-ready deadline: July 12, 2019
 
 Keynote Speakers:
