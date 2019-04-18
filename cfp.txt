@@ -55,11 +55,11 @@ International Program Committee:
 - Zhaojun Yang - Facebook
  
 Organizing Committee: 
-- Giovanna Varni - LTCI, IMT-Telecom ParisTech, France (giovanna.varni@telecom-paristech.fr)
+- Giovanna Varni - LTCI, Télécom ParisTech, Université Paris-Saclay, Paris, France (giovanna.varni@telecom-paristech.fr)
 - Naveen Kumar - Disney Research, USA (naveen.kumar@disney.com)
 - Cristina Segalin - Disney Research, USA 
 - James Kennedy - Disney Research, USA 
-- Mohamed Chetouani - ISIR, Sorbonne Université, France 
+- Mohamed Chetouani - ISIR, Sorbonne Université, Paris, France 
 - Joseph A. Allen - University of Nebraska at Omaha, USA 
 - Maurizio Mancini - University College Cork, Ireland 
 - Gualtiero Volpe - Universita di Genova, Italy 
