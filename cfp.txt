@@ -3,6 +3,8 @@ Call for Papers
 Workshop on emotions and emergent states in groups
 https://groupemotion.github.io/
 
+@ 8th International Conference on Affective Computing & Intelligent Interaction (ACII 2019)
+
 Abstract
 The study of affect in groups, although a major goal of affective computing, has received relatively less attention compared to modeling individual affect. This is primarily because studying affect in an interactive, multiparty setting is more complex, and often, not very well defined outside specific applications. As group members explicitly and implicitly interact to coordinate their actions and achieve objectives, so-called emergent states also evolve over time. These include pivotal group phenomena such as trust, conflict, and cohesion. This workshop will provide a unique occasion to gather researchers and practitioners working on approaches for sensing, analyzing, and modeling group emotion and emergent states from a multidisciplinary perspective, including psychological, ethnological, sociological, pedagogical, and computational viewpoints. 
 
