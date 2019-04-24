@@ -15,8 +15,8 @@ Possible topics include:
 - Collaborative affective interfaces (e.g., for inclusion, for education, for games and entertainment)
 
 Paper submissions:
-Submissions should be in the form of long papers (7 pages; 6 pages + 1 page for references) or poster papers (4 pages; 3 pages + 1 page for references). Submissions should follow the paper format for the ACII conference, details here: http://acii-conf.org/2019/submission/.
-The reviewing process for the workshop will be “double blind”: the submitted version of the paper should be appropriately anonymized not to reveal either the authors’ identities or institutions.
+Submissions should be in the form of long papers (maximum 7 pages; 6 pages + 1 page for references) or poster papers (maximum 4 pages; 3 pages + 1 page for references). Submissions should follow the paper format for the ACII conference, details here: http://acii-conf.org/2019/submission/.
+The reviewing process for the workshop will be "double blind": the submitted version of the paper should be appropriately anonymized not to reveal either the authors' identities or institutions.
 
 All submissions will be reviewed by at least 2 experts from our international program committee. Accepted papers will be indexed in IEEE Xplore. Exploration of a special issue from the workshop is underway. 
 
@@ -24,7 +24,7 @@ Submissions should be made to the following easychair site: https://easychair.or
 
 Important dates:
 - Submission deadline: June 17, 2019 (midnight PST)
-- Decision deadline: July 3, 2019
+- Notification deadline: July 3, 2019
 - Camera-ready deadline: July 12, 2019
 
 Keynote Speakers:
@@ -34,7 +34,7 @@ Keynote Speakers:
 International Program Committee:
 - Xavier Alameda-Pineda - INRIA, France
 - Oya Aran - De La Salle University, Manila, Philippines
-- Alessandro D’Ausilio - Università di Ferrara, IIT Ferrara, Italy
+- Alessandro D'Ausilio - Università di Ferrara, IIT Ferrara, Italy
 - Theodora Chaspari - Texas A&M University, USA
 - Chloé Clavel - Telecom-ParisTech, France
 - Ekin Gedik - Technical University of Delft, The Netherlands
@@ -55,17 +55,21 @@ International Program Committee:
 - Zhaojun Yang - Facebook
  
 Organizing Committee: 
-- Giovanna Varni - LTCI, Télécom ParisTech, Université Paris-Saclay, Paris, France (giovanna.varni@telecom-paristech.fr)
-- Naveen Kumar - Disney Research, USA (naveen.kumar@disney.com)
+- Giovanna Varni - LTCI, Télécom ParisTech, Université Paris-Saclay, Paris, France
+- Naveen Kumar - Disney Research, USA
 - Cristina Segalin - Disney Research, USA 
 - James Kennedy - Disney Research, USA 
 - Mohamed Chetouani - ISIR, Sorbonne Université, Paris, France 
 - Joseph A. Allen - University of Nebraska at Omaha, USA 
 - Maurizio Mancini - University College Cork, Ireland 
-- Gualtiero Volpe - Universita di Genova, Italy 
+- Gualtiero Volpe - University of Genova, Italy 
 - Tanaya Guha - University of Warwick, U.K. 
 - Samuel Mascarenhas - Technical University of Lisbon, Portugal
 
 Supporters:
 - This workshop has been supported by the French National Agency (ANR) in the frame of its Technological Research JCJC program (GRACE, project ANR-18-CE33-0003).
-- This workshop partly received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 765955 (ANIMATAS InnovativeTraining Network).
+- This workshop partly received funding from the European Union's Horizon 2020 research and innovation programme under grant agreement No 765955 (ANIMATAS InnovativeTraining Network).
+
+Contacts:
+- Giovanna Varni (giovanna.varniATtelecom-paristech.fr) 
+- Naveen Kumar (Naveen.KumarATdisney.com)
